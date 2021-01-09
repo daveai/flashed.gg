@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flashed.gg</title>
+    
+    
+    
+    <link>https://flashed.gg/</link>
+    <description>Recent content on flashed.gg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://flashed.gg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reverse Engineering the HLTV 2.0 Rating</title>
+      <link>https://flashed.gg/posts/reverse-engineering-hltv-rating/</link>
+      <pubDate>Sat, 09 Jan 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://flashed.gg/posts/reverse-engineering-hltv-rating/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://flashed.gg/img/csgo.jpg&#34;/&gt;
+          
+        
+        
+        
+          Ever since HLTV released their new rating 2.0, they kept the formula behind the rating a secret.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Welcome to flashed.gg</title>
+      <link>https://flashed.gg/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://flashed.gg/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Slow and in-depth CSGO news delivered in a flash.
+For enquiries: info@flashed.gg
+Socials: https://twitter.com/flashedgg https://twitter.com/davebit_
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

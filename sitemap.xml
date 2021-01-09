@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://flashed.gg/</loc>
+    <lastmod>2021-01-09T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://flashed.gg/posts/</loc>
+    <lastmod>2021-01-09T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://flashed.gg/posts/reverse-engineering-hltv-rating/</loc>
+    <lastmod>2021-01-09T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://flashed.gg/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://flashed.gg/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://flashed.gg/about/</loc>
+  </url>
+  
+</urlset>
